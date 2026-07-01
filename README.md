@@ -3,7 +3,7 @@
 <!--
 **rion1234567/rion1234567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:vmn l;」、：mlkj・。
 
 - 🔭 I’m currently worgjｈｋｌ；king on ...
 - 🌱 I’m currently learning ...
