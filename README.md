@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**rion1234567/rion1234567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **rion1234567**. 
+This is my sub-account for learning and experimenting with web development!
 
-Here are some ideas to get you started:vmn l;」、：mlkj・。
+---
 
-- 🔭 I’m currently worgjｈｋｌ；king on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Learning Path
+* **Current Focus:** Studying Web Design & Programming at HAL Tokyo.
+* **Goal:** Exploring front-end technologies and practicing GitHub workflows.
+* **Tech Stack:** React, Next.js, and more.
+
+---
+
+### 🛠 My Tools
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+---
+
+### 🌱 Check out my main profile
+[@zornix-proverili](https://github.com/zornix-proverili)
+
+*“Learning by doing.”*
